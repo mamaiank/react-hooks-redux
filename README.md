@@ -1,2 +1,2 @@
-# react-redux-hooks
-Learning React Redux Hooks
+# react-hooks-redux
+Learning React Hooks Redux 
